@@ -1,5 +1,5 @@
-n - function to print
- *
+#include "main.h"
+/*main - function to print
  * Return: 0
  */
 int main(void)
@@ -13,7 +13,9 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_putchar('\n');
+	_putchar('\n':wq
+);
 
 	return (0);
+
 }

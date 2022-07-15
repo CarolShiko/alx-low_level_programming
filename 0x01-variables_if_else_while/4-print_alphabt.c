@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main print alphabets - Print alphabets except e and q'
+ * main - Print alphabets except 'e' and 'q' starting from 'a' to 'z' in lowercase.
  *
  * Return: Always 0.
  */
